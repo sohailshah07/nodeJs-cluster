@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-cluster",
+  "version": "1.0.0",
+  "description": "Node JS cluster, use PM2, RabbitMQ, Redis Cache and Nginx",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohailshah07/nodeJs-cluster.git"
+  },
+  "author": "dante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohailshah07/nodeJs-cluster/issues"
+  },
+  "homepage": "https://github.com/sohailshah07/nodeJs-cluster#readme"
+}
